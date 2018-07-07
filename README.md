@@ -1,10 +1,10 @@
 # [Asit Swain](https://asitswain.com/)
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+[Stylish Portfolio](https://asitswain.com/) is my responsive, one page portfolio website desgined by using HTML 5, CSS, JS, Bootstraps.
 
 ## Preview
 
-[![Asit Swain Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://asitswain.com/)
+[![Asit Swain Preview](https://github.com/asit-swain/portfolio/blob/master/img/my-website-preview.jpg)](https://asitswain.com/)
 
 **[View Live Preview](https://asitswain.com)**
 
