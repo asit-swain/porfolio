@@ -1,6 +1,6 @@
 # [Asit Swain](https://asitswain.com/)
 
-[Stylish Portfolio](https://asitswain.com/) is my responsive, one page portfolio website desgined by using HTML 5, CSS, JS, Bootstraps.
+[Asit Swain](https://asitswain.com/) is my responsive, one page portfolio website desgined by using HTML 5, CSS, JS, Bootstraps.
 
 ## Preview
 
