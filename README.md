@@ -2,6 +2,6 @@
 
 ## Preview
 
-[![My Site Preview](https://asitswain.com/img/stylish-portfolio.jpg)](https://asitswain.com/)
+[![My Site Preview](https://github.com/asit-swain/portfolio/blob/master/img/site%20preview.jpg)](https://asitswain.com/)
 
 
